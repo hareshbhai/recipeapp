@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "recipeapp"
+    }
+  },
+  "defaultProject": "recipeapp",
+  "cli": {
+    "analytics": false
+  }
 }
